@@ -31,16 +31,13 @@ void solve()
         }
     }
 
-    if (ifallev || allodd)
-    {
+    if (ifallev || allodd){
 
         sort(nums.begin(), nums.end());
-        if (nums[0] == nums[n - 1])
-        {
+        if (nums[0] == nums[n - 1]){
             cout << -1 << endl;
         }
-        else
-        {
+        else{
             int cnt = 0;
             vi temp;
             int tempy = nums[0];
@@ -59,8 +56,7 @@ void solve()
             cout << endl;
         }
     }
-    else
-    {
+    else{
         cout << b.size() << " " << a.size() << endl;
         loop(i, 0, b.size())
         {

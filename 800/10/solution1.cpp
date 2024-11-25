@@ -45,6 +45,5 @@ int main() {
         int ans = count1+(count2*2)+(count3*3)+(count4*4)+(count5*5);
         cout<<ans<<endl;
     }
-    
     return 0;
 }

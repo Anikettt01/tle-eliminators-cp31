@@ -8,8 +8,7 @@ bool helper(vector<int>&arr,int n) {
     return true;
 }
 
-int main()
-{  
+int main(){  
     int t;
     cin>>t;
     while(t--){
@@ -22,5 +21,4 @@ int main()
         if(helper(arr,n) || k>=2) cout<<"YES"<<endl;
         else cout<<"NO"<<endl;
     }
- 
 }
