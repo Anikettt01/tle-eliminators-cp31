@@ -21,4 +21,5 @@ int main(){
         if(count <= k) cout<<"YES"<<endl;
         else cout<<"NO"<<endl;
     }
+    
 }
