@@ -14,8 +14,7 @@ int helper(int n,int x, vector<int>&arr){
     return ans;
 }
  
-int main()
-{
+int main(){
     int t;
     cin>>t;
     while(t--){
@@ -27,5 +26,4 @@ int main()
         
         cout<<helper(n,x,arr)<<endl;
     }
- 
 }
