@@ -38,7 +38,6 @@ void helper(){
                 cout<<(minDifference/2)+1<<endl;
                 return;
             }
-
         }
 }
 

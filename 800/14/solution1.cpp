@@ -27,6 +27,5 @@ int main() {
         cin>>a>>b>>c;
         helper(a,b,c);
     }
-    
     return 0;
 }
