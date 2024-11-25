@@ -22,6 +22,5 @@ int main() {
         int ans = max(0, right - left + 1);
         cout << ans << endl;
     }
-    
     return 0;
 }

@@ -27,12 +27,12 @@ int main() {
         } else {
             if (twoCount == 0) {
                 cout << 1 << endl; 
-            } else {
+            } 
+            else {
                 ll middleIndex = indices.size() / 2;
                 cout << indices[middleIndex - 1] << endl;
             }
         }
     }
-
     return 0;
 }

@@ -29,6 +29,5 @@ int main() {
         if(ans) cout<<"YES"<<endl;
         else cout<<"NO"<<endl;
     }
-    
     return 0;
 }
