@@ -38,8 +38,6 @@ void helper(vector<ll>&arr,int n){
             }
         }
     }
-        
-
 }
 
 int main() {

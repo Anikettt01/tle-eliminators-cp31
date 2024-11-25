@@ -7,8 +7,7 @@ void helper(int n, vector<int>&arr){
     else cout<<"YES"<<endl;
 }
  
-int main()
-{
+int main(){
     int t;
     cin>>t;
     while(t--){

@@ -12,9 +12,8 @@ int helper(){
         if(a==n && b==n){
             cout<<"YES"<<endl;
         }
-        else{
-            cout<<"NO"<<endl;
-        }
+        else cout<<"NO"<<endl;
+        
     }
     else{
         int temp=n-a-b;
