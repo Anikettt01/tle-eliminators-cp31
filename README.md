@@ -42,7 +42,7 @@ Thanks to all the contributors! ✨
       <br />
       <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/siddheshsangale0705"><b>@siddhheshsangale0705</b></a></span>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <a href="https://github.com/anujop07">
         <img src="https://avatars.githubusercontent.com/anujop07" width="100px;" alt=""/>
         <br />
@@ -50,7 +50,7 @@ Thanks to all the contributors! ✨
       </a>
       <br />
       <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/ANUJ_0007"><b>@ANUJ_0007</b></a></span>
-    </td>
+    </td> -->
   </tr>
 </table>
 
