@@ -12,7 +12,7 @@ int helper(string &x,string &s,int n,int m){
     return ans;
 }
 
-int main() {
+int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
     
@@ -25,7 +25,6 @@ int main() {
         cin>>x;
         cin>>s;
         cout<<helper(x,s,n,m)<<endl;
-    }
-    
+    }   
     return 0;
 }

@@ -4,7 +4,7 @@ using namespace std;
 typedef long long ll;
 typedef vector<ll> vll;
 
-int main() {
+int main(){
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
     
@@ -19,6 +19,5 @@ int main() {
         if(counter>0) cout<<"YES"<<endl;
         else cout<<"NO"<<endl;
         }
-    
     return 0;
 }
