@@ -8,8 +8,7 @@ int helper(string &s,int n){
     return countDot;
 }
 
-int main()
-{  
+int main(){  
     int t;
     cin>>t;
     while(t--){
@@ -19,5 +18,4 @@ int main()
         cin>>s;
         cout<<helper(s,n)<<endl;
     }
- 
 }

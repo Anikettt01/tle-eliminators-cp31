@@ -42,6 +42,5 @@ int main() {
             cout<<x+before100000+before10000+before1000+before100+before10-1<<endl;
         }
     }
-    
     return 0;
 }
