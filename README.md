@@ -24,7 +24,7 @@ Thanks to all the contributors! ✨
       <br />
       <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/aniket_deore"><b>@aniket_deore</b></a></span>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <a href="https://github.com/Mk-mayank">
         <img src="https://avatars.githubusercontent.com/Mk-mayank" width="100px;" alt=""/>
         <br />
@@ -32,7 +32,7 @@ Thanks to all the contributors! ✨
       </a>
       <br />
       <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/mayank.pict12"><b>@mayank.pict12</b></a></span>
-    </td>
+    </td> -->
     <td align="center">
       <a href="https://github.com/siddhesh0705">
         <img src="https://avatars.githubusercontent.com/siddhesh0705" width="100px;" alt=""/>
