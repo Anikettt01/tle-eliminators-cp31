@@ -6,24 +6,16 @@ This repository contains the *CP31 sheet* created by *Priyansh Agrawal* and the 
 - Problems range from beginner-friendly to intermediate level.
 - Encourages learning and mastering multiple approaches to solve a single problem.
 - Contributions are welcome to add diverse solutions or optimize existing ones.
-
----
-
-## Contributors
-
-Thanks to all the contributors! ✨
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Anikettt01">
+<!--   <tr> -->
+<!--     <td align="center"> -->
+<!--       <a href="https://github.com/Anikettt01">
         <img src="https://avatars.githubusercontent.com/Anikettt01" width="100px;" alt=""/>
         <br />
-        <sub><b>Anikettt01</b></sub>
-      </a>
-      <br />
-      <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/aniket_deore"><b>@aniket_deore</b></a></span>
-    </td>
+        <sub><b>Anikettt01</b></sub> -->
+<!--       </a> -->
+<!--       <br /> -->
+<!--       <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/aniket_deore"><b>@aniket_deore</b></a></span> -->
+<!--     </td> -->
 <!--     <td align="center">
       <a href="https://github.com/Mk-mayank">
         <img src="https://avatars.githubusercontent.com/Mk-mayank" width="100px;" alt=""/>
@@ -33,7 +25,7 @@ Thanks to all the contributors! ✨
       <br />
       <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/mayank.pict12"><b>@mayank.pict12</b></a></span>
     </td> -->
-    <td align="center">
+<!--     <td align="center">
       <a href="https://github.com/siddhesh0705">
         <img src="https://avatars.githubusercontent.com/siddhesh0705" width="100px;" alt=""/>
         <br />
@@ -51,8 +43,8 @@ Thanks to all the contributors! ✨
       <br />
       <span style="font-size: 12px; color: #4C8BF5;">Codeforces: <a href="https://codeforces.com/profile/ANUJ_0007"><b>@ANUJ_0007</b></a></span>
     </td>
-  </tr>
-</table>
+  </tr> -->
+<!-- </table> -->
 
 ---
 
