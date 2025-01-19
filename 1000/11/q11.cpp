@@ -6,7 +6,7 @@ void solve() {
     long long d;
     cin >> n >> d;
 
-    vector<long long> arr(n); // Powers of players
+    vector<long long> arr(n);
     for (int i = 0; i < n; i++) {
         cin >> arr[i];
     }
@@ -18,10 +18,9 @@ void solve() {
     long long cur = arr[j];
 
     while (i < j) {
-        long long maxp = arr[j];  // Maximum power currently
+        long long maxp = arr[j]; 
 
         if (cur <= d) {
-            // Take a player from the left
             i++;
             cur += maxp;
         } else {
